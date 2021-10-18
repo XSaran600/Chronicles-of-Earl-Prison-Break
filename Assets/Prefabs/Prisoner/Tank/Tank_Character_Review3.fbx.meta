@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: b3f2e697a9182db458dfa411a16219f2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: Foot Roll.L
+    100006: Foot Roll.R.001
+    100008: Head
+    100010: Head_end
+    100012: Head_end_end
+    100014: Leg Control.L
+    100016: Leg Control.R.001
+    100018: Leg IK.L
+    100020: Leg IK.L_end
+    100022: Leg IK.L_end_end
+    100024: Leg IK.R.001
+    100026: Leg IK.R.001_end
+    100028: Leg IK.R.001_end_end
+    100030: Leg Pole Target.L
+    100032: Leg Pole Target.L_end
+    100034: Leg Pole Target.L_end_end
+    100036: Leg Pole Target.R.001
+    100038: Leg Pole Target.R.001_end
+    100040: Leg Pole Target.R.001_end_end
+    100042: Lower Arm.L
+    100044: Lower Arm.R.001
+    100046: Lower Foot.L
+    100048: Lower Foot.L_end
+    100050: Lower Foot.L_end_end
+    100052: Lower Foot.R.001
+    100054: Lower Foot.R.001_end
+    100056: Lower Foot.R.001_end_end
+    100058: Lower Hand.L
+    100060: Lower Hand.L_end
+    100062: Lower Hand.L_end_end
+    100064: Lower Hand.R.001
+    100066: Lower Hand.R.001_end
+    100068: Lower Hand.R.001_end_end
+    100070: Lower Leg.L
+    100072: Lower Leg.L_end
+    100074: Lower Leg.L_end_end
+    100076: Lower Leg.R.001
+    100078: Lower Leg.R.001_end
+    100080: Lower Leg.R.001_end_end
+    100082: Lower Thumb.L
+    100084: Lower Thumb.L_end
+    100086: Lower Thumb.L_end_end
+    100088: Lower Thumb.R.001
+    100090: Lower Thumb.R.001_end
+    100092: Lower Thumb.R.001_end_end
+    100094: Middle Hand.L
+    100096: Middle Hand.R.001
+    100098: Root
+    100100: Tank
+    100102: //RootNode
+    100104: Toes Control.L
+    100106: Toes Control.L_end
+    100108: Toes Control.L_end_end
+    100110: Toes Control.R.001
+    100112: Toes Control.R.001_end
+    100114: Toes Control.R.001_end_end
+    100116: Torse
+    100118: Upper Arm. L
+    100120: Upper Arm. R.001
+    100122: Upper Foot.L
+    100124: Upper Foot.R.001
+    100126: Upper Hand.L
+    100128: Upper Hand.R.001
+    100130: Upper Leg.L
+    100132: Upper Leg.R.001
+    100134: Upper Thumb.L
+    100136: Upper Thumb.R.001
+    400000: Armature
+    400002: Chest
+    400004: Foot Roll.L
+    400006: Foot Roll.R.001
+    400008: Head
+    400010: Head_end
+    400012: Head_end_end
+    400014: Leg Control.L
+    400016: Leg Control.R.001
+    400018: Leg IK.L
+    400020: Leg IK.L_end
+    400022: Leg IK.L_end_end
+    400024: Leg IK.R.001
+    400026: Leg IK.R.001_end
+    400028: Leg IK.R.001_end_end
+    400030: Leg Pole Target.L
+    400032: Leg Pole Target.L_end
+    400034: Leg Pole Target.L_end_end
+    400036: Leg Pole Target.R.001
+    400038: Leg Pole Target.R.001_end
+    400040: Leg Pole Target.R.001_end_end
+    400042: Lower Arm.L
+    400044: Lower Arm.R.001
+    400046: Lower Foot.L
+    400048: Lower Foot.L_end
+    400050: Lower Foot.L_end_end
+    400052: Lower Foot.R.001
+    400054: Lower Foot.R.001_end
+    400056: Lower Foot.R.001_end_end
+    400058: Lower Hand.L
+    400060: Lower Hand.L_end
+    400062: Lower Hand.L_end_end
+    400064: Lower Hand.R.001
+    400066: Lower Hand.R.001_end
+    400068: Lower Hand.R.001_end_end
+    400070: Lower Leg.L
+    400072: Lower Leg.L_end
+    400074: Lower Leg.L_end_end
+    400076: Lower Leg.R.001
+    400078: Lower Leg.R.001_end
+    400080: Lower Leg.R.001_end_end
+    400082: Lower Thumb.L
+    400084: Lower Thumb.L_end
+    400086: Lower Thumb.L_end_end
+    400088: Lower Thumb.R.001
+    400090: Lower Thumb.R.001_end
+    400092: Lower Thumb.R.001_end_end
+    400094: Middle Hand.L
+    400096: Middle Hand.R.001
+    400098: Root
+    400100: Tank
+    400102: //RootNode
+    400104: Toes Control.L
+    400106: Toes Control.L_end
+    400108: Toes Control.L_end_end
+    400110: Toes Control.R.001
+    400112: Toes Control.R.001_end
+    400114: Toes Control.R.001_end_end
+    400116: Torse
+    400118: Upper Arm. L
+    400120: Upper Arm. R.001
+    400122: Upper Foot.L
+    400124: Upper Foot.R.001
+    400126: Upper Hand.L
+    400128: Upper Hand.R.001
+    400130: Upper Leg.L
+    400132: Upper Leg.R.001
+    400134: Upper Thumb.L
+    400136: Upper Thumb.R.001
+    2100000: Material
+    2100002: Bottom.001
+    2100004: Material.002
+    2100006: Skin in shade.001
+    2100008: Shirt.001
+    2100010: Skin.001
+    2100012: Shoes.001
+    2100014: Hair.001
+    2100016: Lips.001
+    2100018: Material.001
+    2100020: Eye.001
+    2100022: Eye (black part).001
+    2100024: Default.001
+    4300000: Tank
+    7400000: Armature|Armature|Armature|Caught|Armature|Caught
+    7400002: Armature|Armature|Armature|Idle|Armature|Idle
+    7400004: Armature|Armature|Armature|Shocked|Armature|Shocked
+    7400006: Armature|Armature|Armature|Walking|Armature|Walking
+    7400008: Tank Caught
+    7400010: Armature|Caught.001
+    7400012: Tank Idle
+    7400014: Tank Running
+    7400016: Tank Shocked
+    7400018: Armature|Tpose
+    7400020: Tank Walking
+    9500000: //RootNode
+    13700000: Tank
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom.001
+    second: {fileID: 2100000, guid: baf7b06e80229a245b09c355324c7f01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default.001
+    second: {fileID: 2100000, guid: 549a8a6912171544996e54a61fd5d051, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye (black part).001
+    second: {fileID: 2100000, guid: 28b8b6eadd154c5468f6bb3e16ca7133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye.001
+    second: {fileID: 2100000, guid: c549b4a86e7a9524dba193aa0b1a1886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair.001
+    second: {fileID: 2100000, guid: b7c50a45e334edf48ad54b743e7e32d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lips.001
+    second: {fileID: 2100000, guid: 5c5f08f5e79512841a1388e8dddb0286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: bb1db853b7d008440be87c3e86a7faa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 1297acf132ec59e4282708843d72ac1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 8356b5acca2d0384e996ef0480405125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt.001
+    second: {fileID: 2100000, guid: 3f35c08b57931fa49b26030753f2cecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoes.001
+    second: {fileID: 2100000, guid: fea2339de37036f469a0aec59382adc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin in shade.001
+    second: {fileID: 2100000, guid: 22324bca436aee942bace5f036d694c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin.001
+    second: {fileID: 2100000, guid: 815e94891188439408a15fff99b340a5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Tank Caught
+      takeName: Armature|Caught
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tank Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tank Running
+      takeName: Armature|Running
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tank Shocked
+      takeName: Armature|Shocked
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Tank Walking
+      takeName: Armature|Walking
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
